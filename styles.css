@@ -15,6 +15,7 @@ h1
     padding-bottom: 0px;
     padding-right: 0px;
     border-radius: 0px;
+    font-family: Futura, sans-serif;
 }
 h4
 {
@@ -23,6 +24,7 @@ h4
     padding-bottom: 0px;
     padding-right: 0px;
     border-radius: 0px;
+    font-family: Futura, sans-serif;
 }
 p
 {
@@ -31,6 +33,7 @@ p
     padding-bottom: 0px;
     padding-right: 0px;
     border-radius: 0px;
+    font-family: Futura, sans-serif;
 }
 /* Indents an image. */
 .indent_img
@@ -45,6 +48,7 @@ body
 {
     color: black;
     background-color: #E9F8FF;
+    font-family: Futura, sans-serif;
 }
 /* Solid border. */
 hr.solid
